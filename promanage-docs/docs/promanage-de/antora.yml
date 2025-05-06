@@ -2,4 +2,4 @@ name: promanage-de
 version: ~
 title: ProManage
 nav:
-  - promanage-docs/docs/promanage-de/modules/userguide/nav.adoc
+  - modules/userguide/nav.adoc

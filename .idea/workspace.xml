@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6cd47e1-8259-4967-b613-074f6277755f" name="Changes" comment="antora-playbook.yml start-page edited">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora.yml" beforeDir="false" afterPath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/pages/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/index.adoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide" />
       <recent name="$PROJECT_DIR$/promanage-docs/docs/promanage-de" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/promanage-docs" />
@@ -128,7 +132,31 @@
       <option name="project" value="LOCAL" />
       <updated>1746569773317</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="antora-playbook.yml start-page edited">
+      <option name="closed" value="true" />
+      <created>1746569841644</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746569841644</updated>
+    </task>
+    <task id="LOCAL-00014" summary="antora-playbook.yml start-page edited">
+      <option name="closed" value="true" />
+      <created>1746569866110</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746569866110</updated>
+    </task>
+    <task id="LOCAL-00015" summary="antora-playbook.yml start-page edited">
+      <option name="closed" value="true" />
+      <created>1746569910811</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746569910811</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
