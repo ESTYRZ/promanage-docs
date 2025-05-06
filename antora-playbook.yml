@@ -1,6 +1,6 @@
 site:
   title: ProManage DE
-  start_page: promanage-docs::index.adoc
+  start_page: ROOT::index.adoc
 content:
   sources:
     - url: https://github.com/ESTYRZ/promanage-docs.git
