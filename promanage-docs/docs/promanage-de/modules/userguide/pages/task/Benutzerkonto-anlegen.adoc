@@ -1,0 +1,43 @@
+= Benutzerkonto anlegen
+:page-topic-type: task
+:page-tags: benutzerverwaltung, konto, setup
+:page-audience: admin
+:page-version: 2.0
+
+Legen Sie ein neues Benutzerkonto für einen Mitarbeitenden im System an.
+
+== Voraussetzungen
+
+* Sie sind als Administrator im System angemeldet.
+* Die Benutzerverwaltung ist aktiviert.
+* Sie kennen den Vor- und Nachnamen sowie die E-Mail-Adresse der Person.
+
+== Schritte
+
+. Öffnen Sie das ProManage-Webportal unter `https://portal.promanage.io`.
+. Navigieren Sie zu *Verwaltung → Benutzerkonten*.
+. Klicken Sie auf *Neues Benutzerkonto anlegen*.
+. Füllen Sie die folgenden Felder aus:
++
+[cols="1,2"]
+|===
+| Feld              | Beschreibung
+
+| Vorname
+| Vorname des neuen Benutzers
+
+| Nachname
+| Nachname des neuen Benutzers
+
+| E-Mail-Adresse
+| Geschäftliche E-Mail, z. B. `max.mustermann@firma.de`
+
+| Rolle
+| Wählen Sie die passende Rolle aus (z. B. *Standardbenutzer*, *Administrator*)
+|===
+. Klicken Sie auf *Speichern*, um das Konto zu erstellen.
+. Optional: Aktivieren Sie das Konto sofort, indem Sie im Benutzerprofil auf *Aktivieren* klicken.
+
+== Ergebnis
+
+Ein neues Benutzerkonto wurde erstellt und erscheint in der Benu
