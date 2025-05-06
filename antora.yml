@@ -1,0 +1,5 @@
+name: ProManage
+version: ~
+title: ProManage
+nav:
+  - modules/ROOT/nav.adoc

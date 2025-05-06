@@ -1,5 +1,0 @@
-name: promanage-de
-version: ~
-title: ProManage
-nav:
-  - modules/userguide/nav.adoc

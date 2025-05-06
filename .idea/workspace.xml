@@ -6,7 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b6cd47e1-8259-4967-b613-074f6277755f" name="Changes" comment="antora-playbook.yml start-page edited">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/antora-playbook.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora.yml" beforeDir="false" afterPath="$PROJECT_DIR$/antora.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/nav.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ROOT/nav.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/pages/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ROOT/pages/index.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/pages/task/Benutzerkonto-anlegen.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ROOT/pages/task/Benutzerkonto-anlegen.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/pages/task/Datenbank-installieren.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ROOT/pages/task/Datenbank-installieren.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/pages/task/test.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ROOT/pages/task/test.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-en/modules/userguide/nav.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-en/modules/userguide/pages/index.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-en/modules/userguide/pages/task/test-en.adoc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +36,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide/pages" />
       <recent name="$PROJECT_DIR$/promanage-docs/docs/promanage-de/modules/userguide" />
       <recent name="$PROJECT_DIR$/promanage-docs/docs/promanage-de" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/promanage-docs" />
     </key>
   </component>
@@ -203,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746570308412</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="antora-playbook.yml start-page edited">
+      <option name="closed" value="true" />
+      <created>1746570381890</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1746570381890</updated>
+    </task>
+    <task id="LOCAL-00023" summary="antora-playbook.yml start-page edited">
+      <option name="closed" value="true" />
+      <created>1746570412582</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1746570412582</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
