@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6cd47e1-8259-4967-b613-074f6277755f" name="Changes" comment="antora-playbook.yml start-page edited">
-      <change beforePath="$PROJECT_DIR$/antora-playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/antora.yml" beforeDir="false" afterPath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-en/modules/userguide/nav.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-en/modules/userguide/pages/index.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-en/modules/userguide/pages/task/test-en.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/promanage-docs/docs/promanage-de/antora-playbook.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746569314220</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="antora-playbook.yml start-page edited">
+      <option name="closed" value="true" />
+      <created>1746569773317</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746569773317</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
