@@ -1,14 +1,12 @@
 site:
   title: Promanage Docs
-  start_page: promanage:ROOT:index.adoc
+  start_page: docs::index.adoc
 git:
   ensure_git_suffix: false
 content:
   sources:
     - url: https://github.com/ESTYRZ/promanage-docs.git
-      start_paths:
-        - docs/promanage
-        - docs/ROOT
+      start_path: docs
       branches: master
       edit_url: false
 
