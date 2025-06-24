@@ -1,0 +1,41 @@
+= Benutzerhandbuch der Beispielsoftware
+:doctype: book
+:toc: macro
+:toclevels: 2
+:icons: font
+:sectnums:
+:keywords: Benutzerhandbuch, Beispielsoftware, Hilfe, Dokumentation
+:description: Einstiegspunkt für alle Themen der Beispielsoftware-Dokumentation
+:revdate: 2025-06-25
+
+Willkommen im Benutzerhandbuch der Beispielsoftware. Diese Dokumentation enthält alle relevanten Informationen zur Installation, Konfiguration und Nutzung der Software sowie zu administrativen Aufgaben.
+
+toc::[]
+
+== Erste Schritte
+
+* xref:contentconcept.adoc[Einstieg in die Beispielsoftware]
+
+== Anwendung der Software
+
+* xref:contenttask.adoc[Benutzeroberfläche verstehen]
+
+== Administration
+
+* Listenpunkt 1
+* Listenpunkt 2
+
+== Technische Themen
+
+* Listenpunkt 1
+* Listenpunkt 2
+
+== Problemlösung und Support
+
+* Listenpunkt 1
+* Listenpunkt 2
+
+== Rechtliches
+
+* Listenpunkt 1
+* Listenpunkt 2

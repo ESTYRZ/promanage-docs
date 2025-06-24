@@ -1,0 +1,10 @@
+* xref:legal.adoc[Rechtliche Hinweise]
+
+* Promanage Dokumentation
+** xref:introduction.adoc [Einleitung]
+
+** Content
+*** xref:tasks/contenttask.adoc[Erster Task]
+*** xref:concept/contentconcept.adoc[Erstes Konzept]
+
+

@@ -1,0 +1,5 @@
+name: docs
+title: Promanage Docs
+version: 22
+nav:
+  - modules/promanage/nav.adoc
