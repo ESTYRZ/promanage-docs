@@ -1,6 +1,6 @@
 site:
   title: Promanage Docs
-  start_page: docs:promanage:modules:ROOT:index.adoc
+  start_page: promanage:ROOT:index.adoc
 git:
   ensure_git_suffix: false
 content:
