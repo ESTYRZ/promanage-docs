@@ -4,7 +4,7 @@ git:
   ensure_git_suffix: false
 content:
   sources:
-    - url: https://github.com/ESTYRZ/promanage-docs.git
+    - url: https://github.com/ESTYRZ/promanage-docs
       start_path: docs
       branches: main
       edit_url: false
