@@ -2,7 +2,19 @@ name: docs
 title: Promanage Docs
 version: 22
 start_page: ROOT:index.adoc
-
-
 nav:
-  - docs/modules/nav.adoc
+  - modules/ROOT/nav.adoc
+
+git:
+  ensure_git_suffix: false
+content:
+  sources:
+    - url: https://github.com/ESTYRZ/promanage-docs.git
+      start_path: docs
+      branches: master
+      edit_url: false
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
