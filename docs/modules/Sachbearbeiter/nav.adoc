@@ -7,4 +7,4 @@
 *** xref:concept/contentconcept.adoc[Benutzerrollen und Berechtigungen]
 
 ** userguide
-*** xref:userguide:Task/Aufgabe_erstellen.adoc[]
+*** xref:userguide:Task$Aufgabe_erstellen.adoc[]
