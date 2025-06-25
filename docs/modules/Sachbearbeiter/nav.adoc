@@ -1,5 +1,5 @@
 * Promanage Dokumentation
-** xref:introduction.adoc [Einleitung]
+** xref:introduction.adoc[Einleitung]
 * xref:legal.adoc[Rechtliche Hinweise]
 
 ** Content

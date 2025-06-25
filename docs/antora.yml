@@ -1,7 +1,7 @@
 name: docs
-title: Promanage Docs
+title: Sachbearbeiter Docs
 version: 22
 start_page: Sachbearbeiter:index.adoc
 
 nav:
-  - modules/ROOT/nav.adoc
+  - modules/Sachbearbeiter/nav.adoc
