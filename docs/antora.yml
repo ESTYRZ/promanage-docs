@@ -1,7 +1,7 @@
 name: docs
 title: Sachbearbeiter Docs
 version: 22
-start_page: Sachbearbeiter:index.adoc
+start_page: userguide:index.adoc
 
 nav:
   - modules/Sachbearbeiter/nav.adoc
