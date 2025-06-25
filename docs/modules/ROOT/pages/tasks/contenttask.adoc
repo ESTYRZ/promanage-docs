@@ -1,6 +1,4 @@
 = Installation der Beispielsoftware
-:toc:
-
 == Voraussetzungen
 
 * Java 17 oder höher
