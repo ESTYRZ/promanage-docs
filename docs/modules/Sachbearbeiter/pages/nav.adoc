@@ -6,4 +6,5 @@
 *** xref:tasks/contenttask.adoc[Installation der Beispielsoftware]
 *** xref:concept/contentconcept.adoc[Benutzerrollen und Berechtigungen]
 
-
+include::adminguide:partial$navA.adoc[]
+include::userguide:partial$nav.adoc[]
