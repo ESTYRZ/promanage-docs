@@ -4,9 +4,9 @@ git:
   ensure_git_suffix: false
 content:
   sources:
-    - url: .
+    - url: https://github.com/ESTYRZ/promanage-docs.git
       start_path: docs
-      branches: master
+      branches: HEAD
       edit_url: false
 
 ui:
