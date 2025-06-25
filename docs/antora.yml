@@ -2,5 +2,6 @@ name: docs
 title: Promanage Docs
 version: 22
 start_page: ROOT:index.adoc
+
 nav:
   - modules/ROOT/nav.adoc
