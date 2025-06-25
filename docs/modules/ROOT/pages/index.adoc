@@ -14,11 +14,11 @@ toc::[]
 
 == Erste Schritte
 
-* xref:concept/contentconcept.adoc[Einstieg in die Beispielsoftware]
+* xref:contentconcept.adoc[Einstieg in die Beispielsoftware]
 
 == Anwendung der Software
 
-* xref:tasks/contenttask.adoc[Benutzeroberfläche verstehen]
+* xref:contenttask.adoc[Benutzeroberfläche verstehen]
 
 == Administration
 

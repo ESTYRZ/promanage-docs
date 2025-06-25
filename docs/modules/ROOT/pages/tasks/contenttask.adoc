@@ -1,3 +1,3 @@
 = Installation der Beispielsoftware
 
-Das ist eine Testseite nummer Task
+Das ist eine Testseite für einen ersten Task mit Fetsch-Kommando.
