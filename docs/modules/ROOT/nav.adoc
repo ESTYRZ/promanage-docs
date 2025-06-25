@@ -4,7 +4,7 @@
 ** xref:introduction.adoc [Einleitung]
 
 ** Content
-*** xref:tasks/contenttask.adoc[Erster Task]
-*** xref:concept/contentconcept.adoc[Erstes Konzept]
+*** xref:tasks/contenttask.adoc[Installation der Beispielsoftware]
+*** xref:concept/contentconcept.adoc[Benutzerrollen und Berechtigungen]
 
 
