@@ -1,11 +1,9 @@
-* xref:index.adoc[Startseite]
-
-* Rechtliches
-** xref:legal.adoc[Rechtliche Hinweise]
-
 * Promanage Dokumentation
-** xref:introduction.adoc[Einleitung]
+** xref:introduction.adoc [Einleitung]
+* xref:legal.adoc[Rechtliche Hinweise]
 
 ** Content
-*** xref:tasks/contenttask.adoc[Erster Task]
-*** xref:concept/contentconcept.adoc[Erstes Konzept]
+*** xref:tasks/contenttask.adoc[Installation der Beispielsoftware]
+*** xref:concept/contentconcept.adoc[Benutzerrollen und Berechtigungen]
+
+
