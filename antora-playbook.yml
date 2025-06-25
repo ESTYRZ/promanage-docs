@@ -6,7 +6,7 @@ content:
   sources:
     - url: https://github.com/ESTYRZ/promanage-docs.git
       start_path: docs
-      branches: MASTER
+      branches: main
       edit_url: false
 
 ui:
